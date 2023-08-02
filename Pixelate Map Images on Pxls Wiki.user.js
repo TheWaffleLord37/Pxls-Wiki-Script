@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Applies pixelated effect to the map images on Pxls Wiki
-// @author       You
+// @author       ChatGPT
 // @match        https://wiki.pxls.space/index.php?title=Map:*
 // @grant        none
 // ==/UserScript==
