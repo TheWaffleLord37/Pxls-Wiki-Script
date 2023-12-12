@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Applies pixelated effect to the map images on Pxls Wiki
 // @author       ChatGPT
+// @icon         https://wiki.pxls.space/resources/assets/pxls-wiki-logo-mw-scaled.png
 // @match        https://wiki.pxls.space/index.php?title=Map:*
 // @grant        none
 // ==/UserScript==
