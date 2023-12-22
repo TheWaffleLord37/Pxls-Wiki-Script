@@ -6,6 +6,7 @@
 // @author       ChatGPT
 // @icon         https://wiki.pxls.space/resources/assets/pxls-wiki-logo-mw-scaled.png
 // @match        https://wiki.pxls.space/index.php?title=Map:*
+// @match        https://wiki.pxls.space/view/Map:*
 // @grant        none
 // ==/UserScript==
 
